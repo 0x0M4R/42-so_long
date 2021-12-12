@@ -19,9 +19,12 @@ A simple 2d game where the player must collect all the coins and exit the map.
 - Graphics
 - Imperative programming
 
-#### Usage
+***Usage:***
 ```
 git clone
 make all
 ./so_long "maps/validmap.ber"
 ```
+***Preview:***
+
+![screen-gif](./so_long.gif)
